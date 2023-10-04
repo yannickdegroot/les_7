@@ -63,7 +63,7 @@ print(uppercase_text)
 
 split_text = text.split(" ")
 print(split_text)
-#De .split() method, zorgt ervoor dat de string opgesplitst wordt in aan list.
+#De .split() method, zorgt ervoor dat de string opgesplitst wordt in een list.
 #Dat wat achter .split tussen haakjes staat, wordt gebruikt als breekpunt.
 
 index_text = text.index("Voorbeeld")
